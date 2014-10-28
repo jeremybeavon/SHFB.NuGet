@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>SHFB</id>
+        <version>2014.5.31</version>
+        <title>Sandcastle Help File Builder</title>
+        <authors>Jeremy.Beavon (NuGet),Eric Woodruff (Everything else)</authors>
+        <projectUrl>https://shfb.codeplex.com/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Sandcastle Help File Builder</description>
+    </metadata>
+    <files>
+        <file src="C:\Program Files (x86)\EWSoftware\**\*.*" target="tools" />
+    </files>
+</package>
