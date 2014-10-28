@@ -7,7 +7,9 @@
         <authors>Jeremy.Beavon (NuGet),Eric Woodruff (Everything else)</authors>
         <projectUrl>https://shfb.codeplex.com/</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Sandcastle Help File Builder</description>
+        <description>Sandcastle Help File Builder
+
+NuSpec file (https://github.com/jeremybeavon/SHFB.NuGet)</description>
     </metadata>
     <files>
         <file src="C:\Program Files (x86)\EWSoftware\**\*.*" target="tools" />
